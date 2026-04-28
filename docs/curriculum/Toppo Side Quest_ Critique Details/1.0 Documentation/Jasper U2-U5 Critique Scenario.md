@@ -1,0 +1,87 @@
+**Unit 2**
+
+Jasper’s Proposal:
+
+> Hey Cadet, Cool choice on the base location. However the other location might be a better place to build the base. Because it has the potential for containing more alien ruins. Can you ask Toppo for me?
+
+Toppo Question:
+
+> So Jasper thinks, the other location might be a better place to build the base. Because it has the potential for containing more alien ruins. Cadet, what do you think of this argument? Is there anything wrong with it?
+>
+> **Choice 1: Agree with Jasper.**
+>
+> Feedback 1: You should not be so unsure of yourself Cadet, I see something wrong with Jasper’s argument can you find it (loop back to root; Toppo question)
+>
+> **Choice 2: Disagree, Jasper forgot a claim.**
+>
+> Feedback 2: You are on the right track, Jasper’s argument is missing something, but it clearly has a claim. See if you can find what is missing (loop back to root; Toppo question)
+>
+> **Choice 3: Disagree, Jasper forgot evidence.**
+>
+> Feedback 3: Good Job Cadet, I would agree that there is no evidence in Jasper’s argument. I’m a little busy setting up; so can you go tell Jasper about his argument for me? (go to next dialogue: Restatement of Jasper’s proposal)
+
+Restatement of Jasper’s proposal
+
+> Hey Cadet you are back. What do you think about my proposal to move the base to the other location because it has the potential for containing alien ruins.
+>
+> **Choice 1:** **Jasper you are right.**
+>
+> Toppo Feedback 1: Actually Cadet, Jasper forgot to include evidence in his argument, therefore it is not complete. Make sure arguments always have evidence. Either way we are not relocating the base (Jasper exit dialogue).
+>
+> **Choice 2:** **Jasper, you forgot evidence**
+>
+> Toppo Feedback 2: I agree with you Cadet. All complete arguments should include claim, evidence and reasoning, and Jasper’s argument did not have evidence. Here is a reward for your work (Jasper exit dialogue).
+>
+> **Choice 3: Jasper, you forgot a claim**
+>
+> Toppo Feedback 3: Actually Cadet, Jasper forgot to include evidence in his argument, therefore it is not complete. Jasper’s argument has the claim that the other location is a better place to build the base, but he has no evidence to support his claim. Either way we are not relocating the base (Jasper exit dialogue)
+>
+> Jasper Exit Dialogue: Thanks! I will see if I can collect some evidence from the environment and work on my argument a bit more.
+
+Unit 3
+
+Jasper’s Second Proposal: Hey Cadet, thanks for the advice about looking for evidence. Now that I have gathered some evidence, here is my new argument.
+
+Jasper’s Argument: I think we should move the base to the other location. I have found three alien doors near the other base location.
+
+Toppo Dialog:
+
+> Hey Jasper, did you just make another argument about the base location. Cadet, I see a problem with Jasper’s argument. I challenge you to identify what is wrong with the argument. Jasper can you restate your argument
+
+Jasper:
+
+> I think we should move the base to the other location. I have found three alien doors near the other base location.
+>
+> **Choice 1: Disagree, Jasper forgot reasoning.**
+>
+> Toppo Feedback 1: Good job Cadet, Jasper’s argument does not have reasoning. An argument should always have a scientifically accurate statement that connects the claim and the evidence. (Jasper Exit DIalog)
+>
+> **Choice 2: DIsagree, Jasper forgot evidence**
+>
+> Toppo Feedback 2: Not quite Cadet. Jasper has collected the location of some alien doors as evidence. He does not have a reasoning; a scientifically accurate statement that connects the claim and the evidence. (Jasper Exit DIalog)
+
+Jasper Exit Dialogue: Thanks! I guess my argument still needs some work. I will add reasoning to better link my claim and evidence.
+
+**Unit 4**
+
+Jasper’s Third Proposal: Hey Cadet, thanks for the advice on adding reasoning to my argument about the base location. Here is my new argument.
+
+Jasper’s Argument: I think we should move the base to the other location. I have found three alien doors near the other base location. Both locations have enough resources needed to set up a base. The high amount of alien doors near the other base location would make the research on alien ruins much easier.
+
+Toppo Dialog:
+
+> Hey Jasper, did you just make another argument about the base location. Cadet, I see a problem with Jasper’s argument. I challenge you to identify the what is wrong with the argument. Jasper can you restate your argument
+
+Jasper:
+
+> I think we should move the base to the other location. I have found three alien doors near the other base location. Both locations have enough resources needed to set up a base. The high amount of alien doors near the other base location would make the research on alien ruins much easier.
+>
+> **Choice 1: Disagree, evidence doesn’t support claim.**
+>
+> Toppo Feedback 1: Good job Cadet, All of the evidence in Jasper’s argument does not support his claim. While the evidence of the alien doors supports his argument, the information about the resources being present at both locations does not support his claim that we should move the base to the other location. It is important that all pieces of evidence in argument support the claim. (Jasper Exit DIalog)
+>
+> **Choice 2: Disagree, reasoning doesn’t support claim**
+>
+> Toppo Feedback 2: Not quite Cadet. Jasper uses a logical statement about how the high amount of alien doors would make research easier at the other location. However, not all of his pieces of evidence support his claim that the base should be moved. It is important that all pieces of evidence in argument support the claim (Jasper Exit DIalog)
+
+Jasper Exit Dialogue: Thanks! I guess I still need to improve my argument.
